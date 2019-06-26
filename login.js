@@ -37,4 +37,5 @@ function login () {
             // console.log('yaas');
         }
     }
+    mail1.value ="";
 }

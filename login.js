@@ -17,6 +17,12 @@ if (localStorage.evil) {
     localStorage.setItem('evil', JSON.stringify(arr) );
  
 }    
+named.value = "";
+mail.value = "";
+dept.value = "";
+level.value ="";
+tr.innerHTML = "Registration successful";
+
    
 }
 
